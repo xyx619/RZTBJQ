@@ -417,7 +417,7 @@ public class SkillEditor : EditorWindow
         Selection.activeGameObject = activeCharacterInstance;
         SceneView.FrameLastActiveSceneView();
 
-        Debug.Log($"角色 '{selectedCharacter.name}' 已生成到场景中");
+        Debug.Log($"角色 '{selectedCharacter.name}' 已生成到场景中000000000000");
     }
 
     private void DestroyActiveCharacter()
