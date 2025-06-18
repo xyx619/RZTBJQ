@@ -1,0 +1,6 @@
+
+.vs
+*.sln
+obj
+Library
+*.csproj
